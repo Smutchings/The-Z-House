@@ -9,4 +9,4 @@ The Z-House Project hopes to be a community-led endeavour to change the way we t
 3) Reducing the lifetime impact of Housing
 4) The safe and responsible tear-down of Housing
 
-The core of the project was started by [Sam Hutchings](https://www.samhutchings.co) in his 2018 [project](https://samhutchings.co/projects/z-house) and [report](
+The core of the project was started by [Sam Hutchings](https://www.samhutchings.co) in his 2018 [project](https://samhutchings.co/projects/z-house) and [report](https://github.com/Smutchings/The-Z-House/blob/master/Unit%208%20Report%20-%20Reduced.pdf).
